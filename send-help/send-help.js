@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Send help
 // @namespace    https://ege.sdamgia.ru
-// @version      0
+// @version      1
 // @description  get the right answers
 // @author       AtomixFuze
 // @match        https://*.sdamgia.ru/test*
